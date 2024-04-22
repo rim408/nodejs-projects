@@ -1,3 +1,3 @@
-## Projek latihan nodejs
+## Aplikasi catatan sederhana
 
-Ini adalah projek latihan node.js 
+Aplikasi catatan sederhana dengan node js
