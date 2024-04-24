@@ -1,3 +1,3 @@
-## Aplikasi catatan sederhana
+## Project sederhana
 
-Aplikasi catatan sederhana dengan node js
+Project sederhana dengan node js
