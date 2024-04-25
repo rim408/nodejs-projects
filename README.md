@@ -1,3 +1,3 @@
-## Project sederhana
+# Projek sederhana
 
-Project sederhana dengan node js
+Projek sederhana dengan node js
